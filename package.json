@@ -1,0 +1,19 @@
+{
+  "name": "sit725---realeasyrent.com.au",
+  "version": "1.0.0",
+  "description": "The following repository is a project created by Jordan Litsas and Nathan Cahill as their assignment to SIT725.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nathan-Cahill/SIT725---realeasyrent.com.au.git"
+  },
+  "author": "Jordan Litsas & Nathan Cahill",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nathan-Cahill/SIT725---realeasyrent.com.au/issues"
+  },
+  "homepage": "https://github.com/Nathan-Cahill/SIT725---realeasyrent.com.au#readme"
+}
