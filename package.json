@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/Nathan-Cahill/SIT725---realeasyrent.com.au/issues"
   },
-  "homepage": "https://github.com/Nathan-Cahill/SIT725---realeasyrent.com.au#readme"
+  "homepage": "https://github.com/Nathan-Cahill/SIT725---realeasyrent.com.au#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.29.1",
+    "mongoose": "^6.0.10",
+    "nodemon": "^2.0.13"
+  }
 }
